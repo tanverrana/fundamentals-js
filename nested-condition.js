@@ -1,3 +1,4 @@
+//Nested means : using a new condition in a conditon
 var danishPrice = 45;
 var butterPrice = 32;
 var toastPrice = 10;
