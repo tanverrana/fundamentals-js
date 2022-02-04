@@ -1,12 +1,12 @@
 var lastBench = ["Tanver", "Rana", "Sobur"];
 console.log(lastBench);
-//new data push kora hoyece
+//push means new valie add
 lastBench.push("shakib");
 console.log(lastBench);
 lastBench.push("Mashrafee");
 console.log(lastBench);
 
-//pop korar niyom
+//pop means value remove
 lastBench.pop();
 console.log(lastBench);
 //pop kora value k rekhe dewar niyom
